@@ -28,7 +28,8 @@ h2 {
 @media (max-width:600px) {
     header h1 {
         text-align: center;
-}
+        margin-top: 0;
+    }
     h2 {
         font-size: $medium;
     }
